@@ -1,0 +1,7 @@
+# Publish only the README and reviewed score files.
+*
+!/.gitignore
+!/README.md
+!/scores/
+!/scores/*.pdf
+!/scores/*.mscz
