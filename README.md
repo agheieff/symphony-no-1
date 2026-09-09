@@ -18,5 +18,6 @@ This repository contains the full score and individual movements in PDF and
 MuseScore formats.
 
 [Composition session](https://chatgpt.com/s/cx_6aa03ed4c9708191932393d58b97012c)
+If you're reading through the session, most of it is context building, the actual symphony work starts very close to end
 
 [Watch the full symphony on YouTube](https://www.youtube.com/watch?v=zp95PXmlQYU)
